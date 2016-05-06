@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TMCReminder</string>
+    <string name="tmc_info">路况订阅,及时为您提供路况提醒</string>
+    <string-array name="tmc_infos">
+        <item>路况订阅</item>
+        <item>及时为您提供路况提醒</item>
+    </string-array>
+</resources>
